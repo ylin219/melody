@@ -1,4 +1,4 @@
-# melodyDB
+# melodyDB COMS 4111 group project
 High   Level   description:  
 This   application   draws   inspiration   from   the   IMDB.   The   app   allows   users   to   rate   and  
 review   different   types   of   songs   and   albums   from   a   variety   of   artists.   The   ratings   will   be   out   of   five  
